@@ -39,6 +39,21 @@
 
 
 }
+#mo{ 
+    Font-size:50px;
+    background-color:gold;
+    color:green;
+    margin-right:400px;
+    margin-left:700px;
+    border:10px groove blue;
+    position:relative;
+    bottom:750px;
+    right:700px;
+
+
+}
+
+
 
 #p1{
     font-size:20px;
@@ -69,6 +84,18 @@ padding-bottom:100px;
 position:relative;
 bottom:680px;
 right:50px;
+
+}
+#p4{background-color:lightgreen;
+font-size:20px;
+margin-left:715px;
+margin-right:415px;
+border:10px groove red;
+padding-bottom:100px;
+position:relative;
+bottom:790px;
+right:700px;
+
 
 }
 
