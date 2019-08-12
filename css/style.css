@@ -1,102 +1,55 @@
 
-    h1{
-        background-color:lightgreen;
-        color:blue;
-        font-size:100px;
-        border:10px groove red;
-     }
-    #bio{
-    background-color:gold;
-    color:green; 
+body{
+     background-color: cyan;
+}
+#container{
+    display:flex;
+}
+h1{
+    background-color:aquamarine;
+    color:darkblue;
     font-size:50px;
-    margin-right:1100px;
-    margin-bottom:10px;
-    border:10px groove blue;
-    position:relative;
+    font-family:fantasy;
+    border:10px groove darkcyan;
+    padding-left:10px;
+}
+.top{
+    color:darkblue;
+    border:10px groove lightgreen;
+    font-size: 50px;
+    font-weight:bold;
+    text-align:center;
+
 
 }
-#edu{
-    font-size:50px;
+.bottom{
     background-color:gold;
-    color:green;
-    margin-left:1000px;
-    margin-bottom:10px;
-    border:10px groove blue;
+    font-size:1.15rem;
+    border:10px groove darkblue;
+    height:15rem;
     position:relative;
-    bottom:300px;
+    margin:30px;
+    margin-left:20px;
+    padding-left:1rem;
+    padding-right:1rem;
+    min-width:400px;
+    text-align:left;
+    padding-left:20px;
+
 }
-#jg{
-    font-size:50px;
+#movie{
     background-color:gold;
-    color:green;
-    margin-left:500px;
-    margin-right:500px;
-    margin-bottom:10px;
-    border:10px groove blue;
-    position:relative;
-    bottom:670px;
-    right:50px;
-
-
-}
-#mo{ 
-    Font-size:50px;
-    background-color:gold;
-    color:green;
-    margin-right:400px;
-    margin-left:700px;
-    border:10px groove blue;
-    position:relative;
-    bottom:750px;
-    right:700px;
-
+    color:darkblue;
+    text-align:left;
+    border:10px groove darkblue;
+    font-size:1.15rem;
+    font-weight:bold;
+    margin-top:20px;
+    margin-right:550px;
+    margin-left:650px;
+    padding-left:50px;
 
 }
 
 
 
-#p1{
-    font-size:20px;
-    background-color:lightgreen;
-    margin-right:1115px;
-    margin-left:15px;
-    margin-top:0;
-    padding-bottom:100px;
-    border:10px groove red;
-
-}
-#p2{background-color:lightgreen;
-font-size:20px;
-margin-left:1015px;
-margin-right:15px;
-padding-bottom:100px;
-border:10px groove red;
-
-position:relative;
-bottom :310px;
-}
-#p3{background-color:lightgreen;
-font-size:20px;
-margin-left:515px;
-margin-right:515px;
-border:10px groove red;
-padding-bottom:100px;
-position:relative;
-bottom:680px;
-right:50px;
-
-}
-#p4{background-color:lightgreen;
-font-size:20px;
-margin-left:715px;
-margin-right:415px;
-border:10px groove red;
-padding-bottom:100px;
-position:relative;
-bottom:790px;
-right:700px;
-
-
-}
-
-body{background-color:cyan;}
