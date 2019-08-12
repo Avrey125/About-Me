@@ -1,0 +1,55 @@
+
+body{
+     background-color: cyan;
+}
+#container{
+    display:flex;
+}
+h1{
+    background-color:aquamarine;
+    color:darkblue;
+    font-size:50px;
+    font-family:fantasy;
+    border:10px groove darkcyan;
+    padding-left:10px;
+}
+.top{
+    color:darkblue;
+    border:10px groove lightgreen;
+    font-size: 50px;
+    font-weight:bold;
+    text-align:center;
+
+
+}
+.bottom{
+    background-color:gold;
+    font-size:1.15rem;
+    border:10px groove darkblue;
+    height:15rem;
+    position:relative;
+    margin:30px;
+    margin-left:20px;
+    padding-left:1rem;
+    padding-right:1rem;
+    min-width:400px;
+    text-align:left;
+    padding-left:20px;
+
+}
+#movie{
+    background-color:gold;
+    color:darkblue;
+    text-align:left;
+    border:10px groove darkblue;
+    font-size:1.15rem;
+    font-weight:bold;
+    margin-top:20px;
+    margin-right:550px;
+    margin-left:650px;
+    padding-left:50px;
+
+}
+
+
+
